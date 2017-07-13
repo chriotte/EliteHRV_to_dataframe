@@ -17,7 +17,7 @@ The function can take two paramters
 ```
 df = imp.importDriveData('data/eliteHRV/export/', "*.txt")
 ```
-See "eliteHRVStressReader.py" for example usage. Some demo data is included. 
+See "eliteHRVReader.py" for example usage. Some demo data is included. 
 
 ### Plotting the data as a time series
 The DataFrame can be plotted by using normal pandas commands
