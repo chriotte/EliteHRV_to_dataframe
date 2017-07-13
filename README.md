@@ -1,4 +1,4 @@
-# EliteHRV readings to a time series in Pandas DataFrame
+# EliteHRV to Pandas DataFrame
 This script takes a text file of RR interval exported from the EliteHRV app and reads it into a Pandas DataFrame as a time series. 
 
 ![RR Peaks as a timeseries](Figures/ExampleFigure.png)
