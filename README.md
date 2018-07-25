@@ -6,7 +6,9 @@ This script takes a text file of RR interval exported from the EliteHRV app and 
 
 ### Getting started
 Download or clone the repo, then place your exported data in the data/eliteHRV folder.
-To use the script import the module and call the importDriveData() function 
+To use the script import the module and call the importDriveData() function.
+[Indept description of the project is on my blog DataEspresso.com](http://dataespresso.com/en/2017/07/16/reading-rr-intervals-from-elitehrv-with-pandas/)
+
 ```
 import importhrv as imp
 df = imp.importDriveData()
